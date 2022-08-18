@@ -1,0 +1,10 @@
+export const ERC20_CONTRACT_ADDR = '0x8Dc1b2fe84902769C9079d09D6dfFf104704C285'
+export const SWAP_CONTRACT_ADDR = '0xBDB13Bee1064d6e4758dE528Ee558a0F8C564BEb'
+export const PANCAKE_ROUTER_ADDR = '0xD99D1c33F9fC3444f8101754aBC46c52416550D1'
+export const UNISWAP_ROUTER_ADDR = '0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D'
+
+export const TOKENLIST = {
+    'ethereum': '0x8Dc1b2fe84902769C9079d09D6dfFf104704C285',       // test1 token
+    'dai': '0x487Ff2773c0beC41b5b7e447A6cbd6dBDf88688a',            // test2 token
+    'volt': '0x6070697491550f24E68C4eb5F461827c87978022',           // volt token for test
+}
